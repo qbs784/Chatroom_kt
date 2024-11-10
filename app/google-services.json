@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "110298275086",
+    "project_id": "pushchat-bfe3b",
+    "storage_bucket": "pushchat-bfe3b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110298275086:android:22a2167166ec01c6708b5f",
+        "android_client_info": {
+          "package_name": "com.example.HTTPDemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8DeI2fwhmWPjQaJVLjQJ0pSy2kSZ_gLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
